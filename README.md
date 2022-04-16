@@ -4,7 +4,7 @@
 
 <p>This is a simple design theme for website beporsam.ir</p>
 <p align="center">
-  <a href="" rel="noopener">
+ 
   <p>beporsam-ir</p>
  <img src="./assets/images/beporsam-ir.png" alt="beporsam"></a>
 
